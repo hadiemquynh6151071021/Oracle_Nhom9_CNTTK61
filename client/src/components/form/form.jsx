@@ -8,7 +8,7 @@ function Form() {
         <form className="form-content" id="Form">
           <div className="form-title">
             <h2 id="titleOgan">SỞ GIÁO DỤC VÀ ĐÀO TẠO THÀNH PHỐ HỒ CHÍ MINH</h2>
-            <h3 id="titleName">TRA CỨU ĐIỂM THI THPT QUỐC GIA 2022</h3>
+            <h3 id="titleName">TRA CỨU ĐIỂM THI THPT QUỐC GIA 2023</h3>
           </div>
           <div className="form-input">
             <div className="input-guide">

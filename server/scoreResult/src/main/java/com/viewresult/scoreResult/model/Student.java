@@ -93,7 +93,7 @@ public class Student {
 		this.biology = biology;
 	}
 	
-	@Column(name = "SÁCH")
+	@Column(name = "SỬ")
 	public float getHistory() {
 		return history;
 	}
